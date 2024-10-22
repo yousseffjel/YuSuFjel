@@ -33,3 +33,17 @@
   <img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
 </p>
+
+
+## Connect with Me
+
+If you'd like to get in touch or follow my work, feel free to connect with me on the following platforms:
+
+[![Website Badge](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=internet-explorer&logoColor=white&link=https://yousseffjel.com)](https://yousseffjel.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/youssef-fjel/)](https://www.linkedin.com/in/youssef-fjel/)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@yousseffjel.com)](mailto:contact@yousseffjel.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/yousseffjel)](https://t.me/yousseffjel)
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/yusufjel)](https://discord.com/users/yusufjel)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yousseffjel/)](https://www.instagram.com/yousseffjel/)
+[![Reddit Badge](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white&link=https://www.reddit.com/user/youssef-fjel/)](https://www.reddit.com/user/youssef-fjel/)
+
