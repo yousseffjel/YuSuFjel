@@ -38,20 +38,40 @@ I specialize in **building dynamic, responsive websites** and **automating workf
 
 ---
 
-## 🛠️ **What I Do:**
+## 🚀 **Featured Projects:**
 
-- **Front-End Development**: Creating beautiful, responsive websites using modern technologies like **HTML, CSS, JavaScript, and React**.
-- **Linux Customization & Automation**: Setting up, configuring, and automating **Arch Linux** environments, including **DWM** window management and **system automation scripts**.
-- **WordPress Development**: Crafting and optimizing dynamic websites with **WordPress** to deliver seamless user experiences.
+- [**ReactJS Web Applications**](#): Developed interactive web apps using **ReactJS**, enhancing user experience and performance. [See on GitHub](#)
+- [**WordPress Projects**](#): Created professional, user-friendly websites for clients using **WordPress**. [See on GitHub](#)
+- [**Arch Linux & DWM Automation**](#): Built automation scripts to optimize Arch Linux installations, including custom DWM configurations. [See on GitHub](#)
+- [**Graphic & UX/UI Design**](#): Proficient in **Figma** and **Photoshop** for creating intuitive, user-centered designs.
 
 ---
 
-## 🖥️ **Projects & Work:**
+## 💡 **Personal Motto:**
 
-- **Arch Linux & DWM Automation**: Built automation scripts to optimize Arch Linux installations, including custom DWM configurations. [See on GitHub](#)
-- **ReactJS Web Applications**: Developed interactive web apps using **ReactJS**, enhancing user experience and performance. [See on GitHub](#)
-- **WordPress Projects**: Created professional, user-friendly websites for clients using **WordPress**. [See on GitHub](#)
-- **Graphic & UX/UI Design**: Proficient in **Figma** and **Photoshop** for creating intuitive, user-centered designs.
+"Continuous improvement is better than delayed perfection." – Mark Twain
+
+---
+
+## 🛠️ **What I Do:**
+
+- **Front-End Development**: Creating beautiful, responsive websites using modern technologies like **HTML, CSS, JavaScript, and React**.
+- **WordPress Development**: Crafting and optimizing dynamic websites with **WordPress** to deliver seamless user experiences.
+- **Linux Customization & Automation**: Setting up, configuring, and automating **Arch Linux** environments, including **DWM** window management and **system automation scripts**.
+
+---
+
+## 📊 **GitHub Stats:**
+
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseffjel&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffjel&layout=compact&theme=radical)
+
+---
+
+## 🤝 **Contributions & Collaboration:**
+
+I'm always open to collaborating on interesting projects and improving the open-source ecosystem. Feel free to check out my repositories and get in touch!
 
 ---
 
@@ -66,3 +86,4 @@ If you'd like to collaborate, get in touch, or just follow along with my work, y
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/yusufjel)](https://discord.com/users/yusufjel)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yousseffjel/)](https://www.instagram.com/yousseffjel/)
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white&link=https://www.reddit.com/user/youssef-fjel/)](https://www.reddit.com/user/youssef-fjel/)
+
