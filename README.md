@@ -40,10 +40,12 @@ I specialize in **building dynamic, responsive websites** and **automating workf
 
 ## 🚀 **Featured Projects:**
 
-- [**ReactJS Web Applications**](#): Developed interactive web apps using **ReactJS**, enhancing user experience and performance. [See on GitHub](#)
-- [**WordPress Projects**](#): Created professional, user-friendly websites for clients using **WordPress**. [See on GitHub](#)
-- [**Arch Linux & DWM Automation**](#): Built automation scripts to optimize Arch Linux installations, including custom DWM configurations. [See on GitHub](#)
-- [**Graphic & UX/UI Design**](#): Proficient in **Figma** and **Photoshop** for creating intuitive, user-centered designs.
+- [**Music Player**](https://musicplayer-alx.netlify.app/): Developed a responsive music player using **ReactJS**, **TailwindCSS**, and the **Deezer API**. Features seamless music streaming, search functionality, and a modern user interface. [See on GitHub](https://github.com/yousseffjel/music-player)
+- [**Personal Portfolio**](https://yousseffjel.com/): Created and launched a personal portfolio using **ReactJS** and **TailwindCSS**. Showcases projects and skills with a clean, responsive design. Currently in development with ongoing improvements.[See on GitHub](https://github.com/yousseffjel/portfolio)
+- [**WordPress Project**](#): **New Concept Equipements** Developed a professional website for a company supplying equipment to hotels and restaurants.. [See Live](https://newconceptequipements.com/)
+- [**WordPress Project**](#): **La Galerie Des Montres** Built a sleek WordPress store for luxury watches with secure payments and responsive design. [See Live](https://lagaleriedesmontres.com/)
+- [**WordPress Project**](#): **Key Watchs** Created an online store for a boutique watch brand, focusing on clean design and easy checkout. [See Live](https://keywatchs.com/)
+- [**Arch Linux & DWM Automation**](#): Built automation scripts to optimize Arch Linux installations, including custom DWM configurations. [See on GitHub](https://github.com/yousseffjel/Antar-dwm)
 
 ---
 
